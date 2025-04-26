@@ -4,7 +4,8 @@
 
 ---
 
-![Atlas-for-MMFM4DP](./0c00cd02-4033-4431-8a22-d4f683a65d1f.png)
+![Atlas_mmfm4dp](https://github.com/user-attachments/assets/e4ddab63-5473-4a28-964a-a7aa461fb034)
+
 
 ---
 
