@@ -69,7 +69,7 @@ Each branch further fans out into models, approaches, and datasets neatly struct
 
 ## 🚀 Getting Started
 
-You can simply access the mind map via the website hosted  🌐[Atlas-for-MMFM4DP](https://xmind.ai/1oNzUweq) (link to your website).
+You can simply access the mind map via the website hosted  🌐[Atlas-for-MMFM4DP](https://xmind.ai/1oNzUweq).
 
 If you want to contribute, suggest updates, or request corrections:
 - Open an Issue
