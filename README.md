@@ -1,16 +1,16 @@
-# MMFM4DP
+# Atlas-for-MMFM4DP
 
 **The First-Ever Comprehensive Visual Guide to Multimodal Foundational Models for Digital Pathology**
 
 ---
 
-![MMFM4DP Mind Map](./0c00cd02-4033-4431-8a22-d4f683a65d1f.png)
+![Atlas-for-MMFM4DP](./0c00cd02-4033-4431-8a22-d4f683a65d1f.png)
 
 ---
 
 ## 🌟 About This Project
 
-**MMFM4DP** (Multimodal Foundational Models for Digital Pathology) is the **first and only** exhaustive visual guide that organizes the rapidly evolving ecosystem of multimodal AI models specifically tailored for digital pathology.
+**Atlas-for-MMFM4DP** (Multimodal Foundational Models for Digital Pathology) is the **first and only** exhaustive visual guide that organizes the rapidly evolving ecosystem of multimodal AI models specifically tailored for digital pathology.
 
 This project presents a simple, **interactive website** (in the form of a **mind map**) that comprehensively lists:
 
@@ -26,7 +26,7 @@ It is **exhaustive**, **organized**, and **one-of-a-kind** — serving researche
 
 ---
 
-## 🔥 Why MMFM4DP?
+## 🔥 Why Atlas-for-MMFM4DP?
 
 - 📚 **First** visual aggregation ever created for this domain
 - 🌟 **Complete**: covers _models, tasks, datasets_, and their interconnections
@@ -68,7 +68,7 @@ Each branch further fans out into models, approaches, and datasets neatly struct
 
 ## 🚀 Getting Started
 
-You can simply access the mind map via the website hosted [here](#) (link to your website).
+You can simply access the mind map via the website hosted  🌐[Atlas-for-MMFM4DP](https://xmind.ai/1oNzUweq) (link to your website).
 
 If you want to contribute, suggest updates, or request corrections:
 - Open an Issue
@@ -103,10 +103,10 @@ If you use or find MMFM4DP useful in your research, please consider citing or re
 
 ```plaintext
 @misc{mmfm4dp,
-  title = {MMFM4DP: Visual Guide to Multimodal Foundational Models for Digital Pathology},
+  title = {Atlas-for-MMFM4DP: Visual Guide to Multimodal Foundational Models for Digital Pathology},
   author = {Himanshu Maurya},
   year = {2025},
-  url = {https://github.com/Himanshunitrr/MMFM4DP},
+  url = {https://github.com/Himanshunitrr/Atlas-for-MMFM4DP},
   note = {Version 1.0}
 }
 ```
@@ -115,7 +115,9 @@ If you use or find MMFM4DP useful in your research, please consider citing or re
 
 ## 💬 Acknowledgements
 
-Built with passion for the computational pathology community and to empower faster innovation in AI-driven healthcare research. 
+Built on top of [Multi-Modal Foundation Models for Computational Pathology: A
+Survey](https://arxiv.org/abs/2503.09091)  and with  passion for the computational pathology community and to empower faster innovation in AI-driven healthcare research. 
+
 
 ---
 
@@ -123,11 +125,6 @@ Built with passion for the computational pathology community and to empower fast
 
 `#MultimodalAI` `#FoundationalModels` `#DigitalPathology` `#WSI` `#ComputationalPathology` `#MedicalImaging` `#VisualLanguageModels`
 
----
-
-# 🌐 Website Coming Soon!
-
-[Atlas for FM in Digital Pathology](https://xmind.ai/1oNzUweq)
 
 ---
 
