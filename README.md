@@ -23,7 +23,7 @@ This project presents a simple, **interactive website** (in the form of a **mind
 
 It is **exhaustive**, **organized**, and **one-of-a-kind** — serving researchers, practitioners, and anyone interested in understanding or navigating the intersection of foundational models and computational pathology.
 
-> _"If multimodal foundation models are the future of pathology, MMFM4DP is your atlas."_
+> _"If multimodal foundation models are the future of pathology, this is your atlas."_
 
 ---
 
@@ -80,7 +80,8 @@ If you want to contribute, suggest updates, or request corrections:
 
 ## 📷 Screenshot
 
-![Mind Map Preview](./0c00cd02-4033-4431-8a22-d4f683a65d1f.png)
+![atlas_mmfm4dp](https://github.com/user-attachments/assets/9cab2322-08ef-4f14-a0b9-6015029e060c)
+
 
 ---
 
