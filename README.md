@@ -103,7 +103,7 @@ Example: Node1 -> Node2 -> Node3 -> Your addition etc
 If you use or find MMFM4DP useful in your research, please consider citing or referencing the GitHub page.
 
 ```plaintext
-@misc{mmfm4dp,
+@misc{Atlas-for-MMFM4DP,
   title = {Atlas-for-MMFM4DP: Visual Guide to Multimodal Foundational Models for Digital Pathology},
   author = {Himanshu Maurya},
   year = {2025},
